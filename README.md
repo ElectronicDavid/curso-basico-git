@@ -3,7 +3,7 @@
 ## Esto es un título H2
 ### Esto es un título H3
 
-Esto es un texto descriptivo **texto en negrita**
+Esto es un texto descriptivo **texto en negrita** **texto personalizado**
 
 > Esto es un bloque de texto o comentario
 
