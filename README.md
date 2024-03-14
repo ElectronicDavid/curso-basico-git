@@ -6,6 +6,7 @@
 
 
 Cambio hecho desde Github
+Esto es un cambio hecho localmente
 
 Este es otro cambio parcial
 
