@@ -2,5 +2,10 @@ Test 1
 hola mi perro
 
 cual manita!!
+<<<<<<< HEAD
 
 ayuda
+=======
+Me quiero tirar el trabajo de Cindy :p 
+Hola, otra linea de código para generar conflicto
+>>>>>>> 2d109bbbcc6f15d63e1f4f6c3f47e92ce2ea6e7b
